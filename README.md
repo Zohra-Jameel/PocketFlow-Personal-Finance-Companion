@@ -1,5 +1,5 @@
 
-# 💸 PocketFlow – Personal Finance Companion
+# PocketFlow – Personal Finance Companion
 
 ## 📱 Overview
 
@@ -53,7 +53,7 @@ The app focuses on clarity, ease of use, and meaningful insights, making it suit
 
 ---
 
-## 🧠 Product Thinking
+##  Product Thinking
 
 The app is designed as a daily-use companion rather than a complex financial system.
 
